@@ -15,3 +15,4 @@ E-mail: superxcgm@gmail.com
 ## Honors and Awards
 
 **2016** 2nd Prize - Lanqiao C/C++ Group  B National Finals
+**2023** AWS Certified Developer - Associate
