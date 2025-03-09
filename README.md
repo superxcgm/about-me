@@ -6,7 +6,7 @@ E-mail: superxcgm@gmail.com
 
 ## Work Experience
 
-**2018 - present** Consultant, Thoughtworks
+**2018 - 2024** Consultant, Thoughtworks
 
 ## Education
 
